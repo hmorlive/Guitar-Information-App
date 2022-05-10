@@ -1,0 +1,69 @@
+%
+mahogany neck
+name: Epiphone ES-335 Traditional Pro Semi-Hollow Electric Guitar
+rounded c profile
+cost: 449
+hh
+counter: 12
+maple body
+green
+semi-hollow double cutaway
+right handed
+maple
+maple top
+6 string
+%
+counter: 5
+poplar
+sss
+double-cutaway solid body
+poplar body
+right handed
+name: PRS SE Silver Sky Electric Guitar
+vibrato
+maple
+cost: 849
+bolt-on maple neck
+tremolo
+yellow
+red
+green
+6 string
+blue
+%
+sss
+stratocaster
+right handed
+vibrato
+name: Fender American Professional II Stratocaster Rosewood Fingerboard Electric Guitar
+cost: 1699.99
+c neck
+double cutaway solid body
+counter: 8
+tremolo
+orange
+green
+black
+gray
+alder
+6 string
+%
+les paul
+counter: 3
+mahogany
+orange
+green
+cost: 2999
+red
+name: Gibson Slash Les Paul Standard Electric Guitar
+%
+brown
+c neck
+name: Mitchell O120CESB Auditorium Acoustic-Electric Guitar 3-Color
+cost: 142.49
+counter: 0
+single cutaway
+orange
+black
+auditorium
+6 string
